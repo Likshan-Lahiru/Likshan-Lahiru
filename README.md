@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lahiru</h1>
 <h3 align="center">A passionate Undergraduate Student at IJSE-Institute of Software Engineering</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-<img align="right" alt="Coding" width="400" src="https://mograph.video/2HwFiEL">
+<img align="right" alt="Coding" width="400" src="[https://mograph.video/2HwFiEL](https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6)">
 
 
 - 🌱 I’m currently learning **CSS,HTML,JS**
