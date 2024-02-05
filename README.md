@@ -1,4 +1,6 @@
-
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 <h1 align="center">Hi 👋, I'm Lahiru</h1>
 <h3 align="center">A passionate Undergraduate Student at IJSE-Institute of Software Engineering</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
@@ -32,4 +34,4 @@
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
-<img align="center" style="width:100vw;" alt="" src="https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif" /> 
+
