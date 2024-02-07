@@ -5,9 +5,6 @@
 <h3 align="center">A passionate Undergraduate Student at IJSE-Institute of Software Engineering</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-
-
-
 - 🌱 I’m currently learning **CSS,HTML,JS**
 
 - 💬 Ask me about **java, javaFX, MySql**
