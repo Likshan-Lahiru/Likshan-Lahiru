@@ -8,8 +8,6 @@
 
 
 
-
-
 - 🌱 I’m currently learning **CSS,HTML,JS**
 
 - 💬 Ask me about **java, javaFX, MySql**
