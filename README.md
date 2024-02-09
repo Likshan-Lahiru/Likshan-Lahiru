@@ -1,3 +1,6 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=tgdrangaka&label=Profile%20views&color=0e75b6&style=flat" alt="tgdrangaka" /> </p>
+
+![hello world](https://github.com/TGDRangaka/TGDRangaka/assets/122887539/ea8cd3d9-58d3-4c8a-a73c-d54f18065f77)
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
