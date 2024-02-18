@@ -5,6 +5,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <h1 align="center">Hi 👋, I'm Lahiru</h1>
+<p align="center"> <a href="https://twitter.com/Likshan_Lahiru_" target="blank"><img src="https://img.shields.io/twitter/follow/Lahiru?logo=twitter&style=for-the-badge" alt="Lahiru_lolitha" /></a> </p>
 <h3 align="center">A passionate Undergraduate Student at IJSE-Institute of Software Engineering</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
