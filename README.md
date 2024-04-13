@@ -11,7 +11,6 @@
 
 - 🌱 I’m currently learning **CSS,HTML,JS**
 
-
 - 💬 Ask me about **java, javaFX, MySql**
 
 - 📫 How to reach me **lahiru212001@gmail.com**
