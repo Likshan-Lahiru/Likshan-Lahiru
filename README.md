@@ -10,7 +10,6 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 - 🌱 I’m currently learning **CSS,HTML,JS**
-
 - 💬 Ask me about **java, javaFX, MySql**
 
 - 📫 How to reach me **lahiru212001@gmail.com**
