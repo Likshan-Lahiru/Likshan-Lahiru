@@ -12,7 +12,6 @@
 
 
 
-
 - 💬 Ask me about **java, javaFX, MySql**
 - 📫 How to reach me **https://likshan-lahiru.github.io/MyPortfolio/**
 
