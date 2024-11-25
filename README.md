@@ -13,7 +13,7 @@
 
 
 - 💬 Ask me about **java, javaFX, MySql**
-- 📫 How to reach me **https://likshan-lahiru.github.io/MyPortfolio/**
+- 📫 How to reach me **https://likshanlahiru.netlify.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
