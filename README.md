@@ -1,5 +1,6 @@
 # Hi there, I'm Likshan Lahiru Lolitha Perera 👨💻
-[![Software Development GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2RwN2JxYXlmaG1wZzB6cGJ5d2VmbGd1d3lvbW9pZzV0N3d2d3N6MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)](https://likshanlahiru.netlify.app/)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=38C71A&width=435&lines=Full-Stack+Developer;Mobile+App+Enthusiast;Cloud+Solutions+Builder)](https://git.io/typing-svg)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=flat&logo=google-chrome&logoColor=white)](https://likshanlahiru.netlify.app/)
 [![GitHub Followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
 
