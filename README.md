@@ -47,8 +47,7 @@ Passionate about building robust solutions across multiple platforms. Always exp
 
 ## 📫 Let's Connect
 - 🔗 [Portfolio](https://likshanlahiru.netlify.app/)
-- 📧 [Email Me](mailto:your.email@domain.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile) (Add your LinkedIn URL)
+- 📧 [Email Me](mailto:lahiru212001@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/likshan-lahiru/) 
 
-## ⚡ Fun Fact
-When I'm not coding, you'll probably find me [add your hobby/interest here]! 🎮⚽🎸
+
