@@ -4,7 +4,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=flat&logo=google-chrome&logoColor=white)](https://likshanlahiru.netlify.app/)
 [![GitHub Followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
 
-💻 **Full-Stack Developer** | 🎓 **Undergraduate** | 🚀 **1+ Year Experience**  
+💻 **Full-Stack Developer** |  | 🚀 **1+ Year Experience**  
 Passionate about building robust solutions across multiple platforms. Always exploring new technologies and best practices in software development.
 
 ## 🛠️ Tech Stack
